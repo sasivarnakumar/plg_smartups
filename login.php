@@ -1,7 +1,8 @@
 <?php
 defined('_JEXEC') or die;
 
-class login extends JControllerLegacy
+
+class login extends JControllerLegacys
 {
     /**
      * @var JApplicationCms
