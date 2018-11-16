@@ -1,7 +1,7 @@
 <?php
 defined('_JEXEC') or die;
 
-class register_hotfix_2_3 extends JControllerLegacy
+class register_hotfix_2_3_4 extends JControllerLegacy
 {
     /**
      * @var JApplicationCms
